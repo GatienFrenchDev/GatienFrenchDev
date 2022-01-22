@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour, Je m'appelle Gatien !</h1>
-<h3 align="center">Je m'amuse a coder deux trois trucs quand j'ai le temps.</h3>
+<h3 align="center">Je m'amuse a coder deux trois trucs quand j'ai le temps et surtout j'adore linux et les serveurs.</h3>
 
 - 👨‍💻 All of my projects are available [on my github](https://github.com/GatienFrenchDev)
 
