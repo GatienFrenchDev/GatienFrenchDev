@@ -11,7 +11,7 @@
     <a href="https://twitter.com/xolork_">
       <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/twitter.svg?sanitize=true" />
     </a>
-    <a href="mailto:contact@gatiendev.tk">
+    <a href="mailto:gatien.dev@gmail.com">
       <img width="18" height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" />
     </a>
   </p>
