@@ -1,7 +1,7 @@
 ### Bonjour !
 
-Gatien, Développeur Web et SaaS, freelance, spécialisé back-end.
+Gatien, Développeur full-stack freelance.
 
-Mon stack actuel : `Node.js`, `React` et `Google Firestore`
+Ma stack actuelle : ˋTypescript`, ˋNext.jsˋ, `Prismaˋ, ˋTailwind` et ˋPostgreSQL`.
 
 Contactez moi sur [ Linkedin](https://www.linkedin.com/in/gatien-gillot/) ou par [ mail](mailto:contact@gatiendev.fr) pour toute demande 👋
